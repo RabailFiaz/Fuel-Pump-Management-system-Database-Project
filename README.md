@@ -188,7 +188,7 @@ Developing correlated subqueries where the subquery depends on the outer query f
 To set up the project locally:
 <ul>
 <li>Clone the repository:
-git clone https://github.com/yourusername/fuel-pump-management.git</li>
+git clone https://github.com/RabailFiaz/fuel-pump-management.git</li>
 
 <li>Navigate to the project directory:
 cd fuel-pump-management</li>
